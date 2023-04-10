@@ -19,10 +19,10 @@ This implementation requires the following libraries to be installed:
 
 ## License
 
-This implementation is open-source and available under the Apache License 2.0. Feel free to use, modify, and distribute it as per the terms of the license.
+This implementation is open-source and available under the GNU General Public License v3.0. Feel free to use, modify, and distribute it as per the terms of the license.
 
 ## Credits
 
 This implementation was created by `ADA ROBINSON` on Thu Apr 06 15:53:00 2023.
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
