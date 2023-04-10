@@ -1,0 +1,42 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Apr 10 22:57:16 2023
+
+@author: arobinson
+"""
+
+# .gitignore
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+__pycache__/
+
+# Byte-compiled Python files
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+
+# Cache files
+*.pyc
+*.pyo
+__pycache__/
+
+# Temporary files
+*.log
+*.swp
+*.swo
+*.tmp
+
+# PuLP temporary files
+*.lp
+*.mps
+*.pkl
+
+# Unit test output files
+*.pyc
+*.pyo
+__pycache__/
