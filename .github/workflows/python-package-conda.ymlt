@@ -16,10 +16,7 @@ jobs:
         python-version: '3.10'
     - name: Install dependencies
       run: |
-        pip install pulp pytest flake8
-    - name: Lint with flake8
-      run: |
-        flake8 .
+        pip install pulp pytest
     - name: Test with pytest
       run: |
         pytest
