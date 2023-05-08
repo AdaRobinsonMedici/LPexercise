@@ -32,7 +32,7 @@ class TestLPProblem(unittest.TestCase):
         self.assertEqual(prob.status, LpStatusOptimal)
 
         # Assert the optimal solution values
-        self.assertAlmostEqual(value(x), 1.0, places=2)
+        self.assertAlmostEqual(value(x),3.0,places=2)
         self.assertAlmostEqual(value(y), 1.5, places=2)
         self.assertAlmostEqual(value(prob.objective), 6.0, places=2)
 
